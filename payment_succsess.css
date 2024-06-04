@@ -1,0 +1,153 @@
+.payment-succsess .ladies-night-at-levels-sukhumvit-11-siam-2-nite-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/ladies_night_at_levels_sukhumvit_11_siam_2_nite_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -85px;
+  width: 1541px;
+  height: 1024px;
+}
+.payment-succsess .group-1 {
+  width: 49px;
+  height: 38.5px;
+}
+.payment-succsess .pepicons-printarrow-left {
+  position: relative;
+  margin: 0 232.3px 785px 0;
+  display: flex;
+  width: 49px;
+  height: 38.5px;
+  box-sizing: border-box;
+}
+.payment-succsess .payment {
+  margin: 0 0 27.8px 7.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Vast Shadow';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFDD7B;
+}
+.payment-succsess .your-payment-is-successful {
+  margin-bottom: 28.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 0.1px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.payment-succsess .vector {
+  width: 147.4px;
+  height: 147.4px;
+}
+.payment-succsess .group {
+  margin: 0 0px 143.1px 0;
+  display: flex;
+  width: 147.4px;
+  height: 147.4px;
+  box-sizing: border-box;
+}
+.payment-succsess .thank-you {
+  margin: 0 14.5px 5.5px 0;
+  display: inline-block;
+  width: 260.8px;
+  overflow-wrap: break-word;
+  font-family: 'Figma Hand', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 49.7px;
+  letter-spacing: 0.1px;
+  line-height: 0.583;
+  color: #FFDD7B;
+}
+.payment-succsess .vector-1 {
+  width: 35px;
+  height: 33.9px;
+}
+.payment-succsess .fa-regulargrin-wink {
+  margin-top: 0.5px;
+  display: flex;
+  width: 35px;
+  height: 33.9px;
+  box-sizing: border-box;
+}
+.payment-succsess .container-3 {
+  margin-left: 83.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 310.3px;
+  box-sizing: border-box;
+}
+.payment-succsess .container-4 {
+  border-radius: 16.5px;
+  border: 1.6px solid #000000;
+  background: rgba(57, 1, 114, 0.2);
+  position: relative;
+  margin-bottom: 12.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 47.6px 0 37.5px 0;
+  width: 584px;
+  box-sizing: border-box;
+}
+.payment-succsess .back-to-home {
+  overflow-wrap: break-word;
+  font-family: 'Anonymous Pro';
+  font-weight: 400;
+  font-size: 42.2px;
+  color: #FFFFFF;
+}
+.payment-succsess .container-1 {
+  border-radius: 30px;
+  border: 3px solid #000000;
+  background: rgba(80, 0, 22, 0.5);
+  position: relative;
+  display: flex;
+  padding: 11px 26.9px 13px 26.9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.payment-succsess .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 584px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.payment-succsess .we-will-send-anote-to-your-email-show-it-when-you-want-to-check-in {
+  position: absolute;
+  right: 125.5px;
+  bottom: 232px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 0px;
+  line-height: 0.75;
+  color: #FFFFFF;
+}
+.payment-succsess .container {
+  border-radius: 64.6px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin-top: 124.5px;
+  display: flex;
+  padding: 33px 0 31px 2px;
+  width: 844px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.payment-succsess {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 37.5px 0 0 15.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}
